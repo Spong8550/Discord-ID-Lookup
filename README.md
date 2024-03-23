@@ -13,17 +13,9 @@ Discord ID Lookup er et Python-script, der giver mulighed for at slå brugerdeta
 
 ## Installation
 1. Sørg for at have Python installeret på din computer. Du kan downloade det fra [Python's officielle hjemmeside](https://www.python.org/downloads/).
-2. Download dette repository eller klone det ved at køre følgende kommando i din terminal: 
-```bash
-git clone https://github.com/GotFlamingo/Discord-ID-Lookup.git
-cd Discord-ID-Lookup
-pip install -r requirements.txt
-py main
-```
-Eller 
-Gå til projektets mappe:
+2. Åben Setup.bat
+3. Åben Discord ID Lookup
 
-Åben **Setup.bat**
 
 
 
